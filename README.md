@@ -1,4 +1,4 @@
-This repsoitory will be used to showcase my projects , ideas and research releated documents. I'm a junior web developer by profession.I love both the hardware and software engineering(Reseach and developemtn)
+This repository will be used to showcase my projects , ideas and research releated documents. I'm a junior web developer by profession.I love both the hardware and software engineering(Reseach and developemtn)
 i used to do competitive programming and hopeing to resume it soon.<br/>
 <b>ProgrammingLanguages:</b>
   - Php
